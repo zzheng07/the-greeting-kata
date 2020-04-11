@@ -1,2 +1,7 @@
 # the-greeting-kata
-The Greeting Kata Project
+
+To Run Test, run the following command.
+```
+npm install
+npm test
+```

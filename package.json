@@ -1,0 +1,19 @@
+{
+  "name": "the-greeting-kata",
+  "version": "1.0.0",
+  "description": "The greeting Kata Project",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm test",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zzheng07/the-greeting-kata.git"
+  },
+  "author": "zzheng07",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
